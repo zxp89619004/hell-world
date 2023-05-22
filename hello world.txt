@@ -2,5 +2,4 @@ hello world
 123456
 haha
 dev
-dev
 master
